@@ -6,3 +6,5 @@ Utilización de machine learning y técnicas de data science para la elaboració
 Link de la competencia en kaggle: https://www.kaggle.com/c/banco-galicia-dataton-2019
 
 Notebook viewer: https://nbviewer.org/github/yagopajarino/ds-datatonGalicia-2019/blob/master/datatonGaliciaProyectoFinal.ipynb
+
+Descargar presentación Power Point: https://github.com/yagopajarino/ds-datatonGalicia-2019/raw/master/PPT%20desaf%C3%ADo%20final.pptx
